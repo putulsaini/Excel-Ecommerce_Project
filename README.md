@@ -1,4 +1,4 @@
-# Excel-Dashboard-for-Ecommerce-Analytics
+# Vrinda Store Excel-Dashboard-for-Ecommerce-Analytics
 For this project, I applied data cleaning methods to uncover and fix typos, misspellings, and errors within the dataset. I utilized pivot tables to efficiently generate comprehensive sales reports, enabling detailed analysis and insights. Additionally, I crafted pie charts, tables, graphs, and dashboards to illustrate sales growth and the most popular purchasing categories.
 Some actions are performed i.e.,Data cleaning,Data processing,Data analytics,Data visualization,Presentation of report and Final insights based on calculations and observations
 
